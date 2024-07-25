@@ -1,12 +1,3 @@
-/*
-
- Red Team Operator course code template
- classic code injection + with unhooks
- 
- author: reenz0h (twitter: @SEKTOR7net)
- credits: NtRaiseHardError
-
-*/
 #include <winternl.h>
 #include <windows.h>
 #include <stdio.h>
