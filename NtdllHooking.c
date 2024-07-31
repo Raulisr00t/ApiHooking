@@ -160,9 +160,6 @@ static int UnhookNtdll(const HMODULE hNtdll, const LPVOID pMapping) {
 	return -1;
 }
 
-
-
-
 int main(void) {
     
 	int pid = 0;
